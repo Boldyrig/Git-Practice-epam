@@ -8,3 +8,4 @@ this line from new branch
 this line from github
 
 this is pull with conflict from local
+this is pull with conflict from remote
