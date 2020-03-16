@@ -4,3 +4,6 @@ this is from test-branch
 this is from test-branch
 
 this is from test-branch again
+this is from test-branch
+
+this line from new branch
