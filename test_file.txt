@@ -14,3 +14,5 @@ this is pull with conflict from local
 this is pull with conflict from remote
 
 some working...
+
+reset this
