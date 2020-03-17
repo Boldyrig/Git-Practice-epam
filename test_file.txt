@@ -1,7 +1,6 @@
 commit
 one more commit
 this is from test-branch
-this is from test-branch
 
 this is from test-branch again
 this is from test-branch
