@@ -8,7 +8,6 @@ this is from test-branch
 
 this line from new branch
 
-
 this line from github
 
 this is pull with conflict from local
